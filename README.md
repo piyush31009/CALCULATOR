@@ -1,5 +1,5 @@
 # CALCULATOR
-
+Follow the link to calculate: https://calculato.vercel.app
 
 # Getting Started with Create React App
 
